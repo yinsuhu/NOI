@@ -1,4 +1,5 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<cstring>
 using namespace std;
 //高精度加法
 int main() {
