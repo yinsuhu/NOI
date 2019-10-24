@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cstring>
 using namespace std;
+//高精度减法运算
 int main() {
     //定义输入c1,c2,临时c
     char c1[100], c2[100], c[100];
