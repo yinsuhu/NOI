@@ -1,11 +1,13 @@
-#include<iostream>
-#include<cstring>
-using namespace std;
 /**
  * 高精度加法
  * author: yinsuhu
  * date: 2019.10.23
  */
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+
 int main() {
     char c1[100], c2[100];//存储输入的数字字符串 
     int a1[100], a2[100], a[100];//c1,c2转存为数字数组a1,a2,结果保存在a3中 
