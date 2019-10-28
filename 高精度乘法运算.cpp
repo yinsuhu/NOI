@@ -1,11 +1,13 @@
-#include<iostream>
-#include<cstring>
-using namespace std;
 /** 
  * 高精度乘法运算
  * author: yinsuhu
  * date: 2019.10.25
  */
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+
 int main() {
     //定义两个输入字符串
     char c1[100], c2[100];
