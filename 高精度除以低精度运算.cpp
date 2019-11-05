@@ -1,3 +1,8 @@
+/**
+ * 高精度除以低精度
+ * author: yinsuhu
+ * date: 2019.11.05
+ */
 #include<iostream>
 #include<cstring>
 using namespace std;
