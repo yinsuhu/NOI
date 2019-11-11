@@ -1,6 +1,10 @@
+/**
+ * desc: 选择排序算法 
+ * author: yinsuhu
+ * date: 2019.11.11
+ */
 #include<bits/stdc++.h>
 using namespace std;
-//选择排序算法 
 int main() {
     int N, i, j , k, tmp;
     //输入数据量大小N
